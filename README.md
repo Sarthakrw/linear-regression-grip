@@ -2,9 +2,9 @@
 
 ## Project 1 : Prediction using Supervised ML
 
-Implementing Linear Regression from scratch and predicting marks obtained if student studied for 9.25 hrs/day
+Implemented Linear Regression from scratch using first principles and mathematical formulas, developing an in-depth understanding of its mechanics, including gradient descent and cost function.
 
 ## Project 2 : Prediction using Unsupervised ML
 
-Given the Iris flower dataset, our objective is to apply the K-means clustering algorithm to determine the optimal number of clusters and visually represent the clustering results.
+Given the Iris flower dataset, our objective is to develop K-Means Clustering model using the scikit-learn framework, clustering unlabeled data to determine the optimal number of clusters and visually represent the clustering results.
 
